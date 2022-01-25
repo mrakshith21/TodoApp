@@ -2,7 +2,7 @@
 
 A simple spring boot application to maintain a list of todos
 
-###Technologies used
+### Technologies used
 1. Spring boot
 2. Spring Data JPA
 
